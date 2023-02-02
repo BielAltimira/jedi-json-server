@@ -113,5 +113,39 @@
       "quantity": "2",
       "spent": 8
     }
+  ],
+  "carts": [
+    {
+      "id": "ae38acc8-a31b-11ed-a8fc-0242ac120002",
+      "products": [
+        {
+          "product": "pear",
+          "quantity": "2"
+        },
+        {
+          "product": "apple",
+          "quantity": "3"
+        }
+      ],
+      "total": 23
+    },
+    {
+      "id": "53dd329f-fba2-873c-0eee-ccb7af8df060",
+      "products": [
+        {
+          "product": "melon",
+          "quantity": "1"
+        },
+        {
+          "product": "kiwi",
+          "quantity": "3"
+        },
+        {
+          "product": "pineapple",
+          "quantity": "7"
+        }
+      ],
+      "total": 79
+    }
   ]
 }
