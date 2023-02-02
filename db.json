@@ -30,32 +30,38 @@
     {
       "id": 1,
       "name": "apple",
-      "price": "5"
+      "price": "5",
+      "img": "https://www.collinsdictionary.com/images/full/apple_158989157.jpg"
     },
     {
       "id": 2,
       "name": "pear",
-      "price": "4"
+      "price": "4",
+      "img": "https://img.freepik.com/free-vector/vintage-pear-illustration_53876-112720.jpg"
     },
     {
       "id": 3,
       "name": "pineapple",
-      "price": "7"
+      "price": "7",
+      "img": "https://img.freepik.com/free-photo/pineapple_144627-22187.jpg?w=2000"
     },
     {
       "id": 4,
       "name": "kiwi",
-      "price": "8"
+      "price": "8",
+      "img": "https://www.lechepuleva.es/documents/13930/203222/kiwi_g.jpg/f3abe7e3-4bb9-434b-8773-5bba2e0f6cb7?t=1422531704000"
     },
     {
       "id": 5,
       "name": "watermelon",
-      "price": "6"
+      "price": "6",
+      "img": "https://png.pngtree.com/png-clipart/20220124/ourlarge/pngtree-cut-half-watermelon-vertical-transparent-layer-material-png-image_4253935.png"
     },
     {
       "id": 6,
       "name": "melon",
-      "price": "6"
+      "price": "6",
+      "img": "https://png.pngtree.com/thumb_back/fw800/background/20220312/pngtree-fruit-cantaloupe-cut-in-half-vertical-version-image_1065738.jpg"
     }
   ],
   "purchases": [
