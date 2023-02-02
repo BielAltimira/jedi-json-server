@@ -16,7 +16,7 @@
       "password": "carmen123"
     },
     {
-      "id": "763dcda4-030a-7463-bddb-402131c5849e", 
+      "id": "763dcda4-030a-7463-bddb-402131c5849e",
       "username": "carla",
       "password": "carla123"
     },
@@ -81,7 +81,7 @@
       "product": "pineapple",
       "id": "b2219aac-a253-11ed-a8fc-0242ac120002",
       "quantity": 777,
-      "spent":5439 
+      "spent": 5439
     },
     {
       "product": "watermelon",
@@ -94,6 +94,24 @@
       "id": "e4eec162-a253-11ed-a8fc-0242ac120002",
       "quantity": 6,
       "spent": 28
+    },
+    {
+      "product": "kiwi",
+      "id": "dfd05169-f1b1-2126-3b57-0d673d8854ae",
+      "quantity": "2",
+      "spent": 16
+    },
+    {
+      "product": "pear",
+      "id": "25bbe082-50af-5288-4318-4ecfa621994d",
+      "quantity": "12",
+      "spent": 48
+    },
+    {
+      "product": "pear",
+      "id": "e7449278-fc9a-cbf8-de38-8b66e21778cf",
+      "quantity": "2",
+      "spent": 8
     }
   ]
 }
